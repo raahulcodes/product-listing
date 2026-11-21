@@ -1,0 +1,36 @@
+/* default values */
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container
+{
+    width: 1170px;
+    height: 100%;
+    margin: auto;
+}
+
+.product-buttons
+{
+    padding: 20px 0;
+    text-align: center;
+}
+
+button 
+{
+    padding: 10px;
+}
+
+/* body section */
+#body-section
+{
+    padding: 20px 0;
+}
+
+.product-heading
+{
+    text-align: center;
+}
