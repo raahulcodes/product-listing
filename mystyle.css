@@ -34,3 +34,23 @@ button
 {
     text-align: center;
 }
+
+.product-container
+{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.product-card
+{
+    width: 33.33%;
+}
+
+.product-card img 
+{
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+}
